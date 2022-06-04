@@ -1,0 +1,5 @@
+C:\Users\mertk\source\repos\NetValorant\NetValorant\obj\Debug\netcoreapp3.1\NetValorant.csproj.AssemblyReference.cache
+C:\Users\mertk\source\repos\NetValorant\NetValorant\obj\Debug\netcoreapp3.1\NetValorant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\source\repos\NetValorant\NetValorant\obj\Debug\netcoreapp3.1\NetValorant.AssemblyInfoInputs.cache
+C:\Users\mertk\source\repos\NetValorant\NetValorant\obj\Debug\netcoreapp3.1\NetValorant.AssemblyInfo.cs
+C:\Users\mertk\source\repos\NetValorant\NetValorant\obj\Debug\netcoreapp3.1\NetValorant.csproj.CoreCompileInputs.cache

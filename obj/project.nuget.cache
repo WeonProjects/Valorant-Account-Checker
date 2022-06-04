@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMGg0RQv1PmfRoi6tcadfk/1Ab3QRE8TDyI+8PGmk5KQ/3lvwsSIYUI5yulewx7CUDX9Tq1fv7kl30HRCU6PEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mertk\\source\\repos\\NetValorant\\NetValorant\\NetValorant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mertk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
